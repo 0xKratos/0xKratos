@@ -24,7 +24,7 @@ Web3 BUIDLR with a passion for all things DeFi.
 <p align="left">
 <img href="https://github.com/argofinance/" src="img/argo.png" width="100">
 
-Co-Founder and Lead Smart Contract Developer for Argo.
+Co-Founder and Lead Smart Contract Developer for Argo. <br>
 Planned out architecture according to business requirements. Developed smart contracts for all core features of Argo.
 
 
