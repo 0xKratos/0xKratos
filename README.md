@@ -11,7 +11,6 @@
 <p align="center">
 <img src="https://img.shields.io/badge/DeFi-lightblue"/>
 <img src="https://img.shields.io/badge/NFT-lightblue"/>
-<img src="https://img.shields.io/badge/Security%20Audits-lightblue"/>
 
 <p align="center">
 <a href="https://www.linkedin.com" target="blank"><img align="center" src="https://img.shields.io/badge/LinkedIn-FFFFFF?style=for-the-badge&logo=linkedin&logoColor=0077B5" alt="kratos_linkedin"></a>
