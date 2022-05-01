@@ -20,7 +20,9 @@ Web3 BUIDLR with a passion for all things DeFi.
 ## &nbsp; **Major Projects**
 
 <p align="left">
-<img href="https://github.com/argofinance/" src="img/argo.png" width="100"> ### Argo Protocol - Liquid Staking on Cronos (Undergoing Certik Audit)
+<img href="https://github.com/argofinance/" src="img/argo.png" width="100"> 
+<br>
+### Argo Protocol - Liquid Staking on Cronos (Undergoing Certik Audit)
 
 Co-Founder and Lead Smart Contract Developer for Argo. <br>
 Planned out architecture according to business requirements.
