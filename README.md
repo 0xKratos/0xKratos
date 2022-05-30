@@ -12,23 +12,20 @@
 <img src="https://img.shields.io/badge/DeFi-lightblue"/>
 <img src="https://img.shields.io/badge/NFT-lightblue"/>
 
-<p align="center">
-<a href="https://www.linkedin.com" target="blank"><img align="center" src="https://img.shields.io/badge/LinkedIn-FFFFFF?style=for-the-badge&logo=linkedin&logoColor=0077B5" alt="kratos_linkedin"></a>
-
 Web3 BUIDLR with a passion for all things DeFi.
 
 ## &nbsp; **Major Projects**
 
 <p align="left">
-<img href="https://github.com/argofinance/" src="img/argo.png" width="100"> 
+<img href="argofinance.money" src="img/argo.png" width="100"> 
 <br>
   
-**Argo Protocol** - Liquid Staking on Cronos (Undergoing Certik Audit)
+**Argo Protocol** - Liquid Staking on Cronos
 
 Co-Founder and Lead Smart Contract Developer for Argo. <br>
 Planned out architecture according to business requirements.
-Developed smart contracts for all core features of Argo.
-
+Developed smart contracts for all core features of Argo, fully audited by Certik.
+https://www.certik.com/projects/argo
 
 ## &nbsp; **Minor Projects**
 
